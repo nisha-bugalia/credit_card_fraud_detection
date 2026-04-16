@@ -1,0 +1,30 @@
+[
+    {
+        "model_name": "Logistic Regression",
+        "accuracy": 0.9195979899497487,
+        "f1_score": 0.9194881289036274,
+        "precision": 0.9210589722280643,
+        "recall": 0.9195979899497487,
+        "roc_auc": 0.9761567993534048,
+        "confusion_matrix": {
+            "TP": 87,
+            "TN": 96,
+            "FP": 5,
+            "FN": 11
+        }
+    },
+    {
+        "model_name": "Random Forest",
+        "accuracy": 0.9346733668341709,
+        "f1_score": 0.9343280131755487,
+        "precision": 0.9421228951776426,
+        "recall": 0.9346733668341709,
+        "roc_auc": 0.9758537078197616,
+        "confusion_matrix": {
+            "TP": 85,
+            "TN": 101,
+            "FP": 0,
+            "FN": 13
+        }
+    }
+]
